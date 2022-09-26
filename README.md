@@ -1,1 +1,1 @@
-# it-1025-John-Pierson
+# My portfolio John Pierson
