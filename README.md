@@ -8,3 +8,5 @@
 // Network design. The network design flowchart I made explains the process of a printer and router and computer communincating between each other. It shows the requests that they both make to each other and how they communicate. It also shows that computer 1 and computer 2 can see what files they have as thyere sharing a local network drive together.
 
 //MyHTML This was the first html assignment we had and it was fun to do. It's fun to learn how to make websites and the purpose of this first assignment was to learn how to use headers and paragraphs. 
+
+//MyPage  This project was about combining all of the thigns about html we have learned so far and actually create a website of our own. This was fun to do and I did mine about rhe cavs 3-1 comback in 2016 against the warriors. My favorite part about this was inserting the picture of them holding the trpohy and displaying it on the site. 
