@@ -10,3 +10,6 @@
 //MyHTML This was the first html assignment we had and it was fun to do. It's fun to learn how to make websites and the purpose of this first assignment was to learn how to use headers and paragraphs. 
 
 //MyPage  This project was about combining all of the thigns about html we have learned so far and actually create a website of our own. This was fun to do and I did mine about rhe cavs 3-1 comback in 2016 against the warriors. My favorite part about this was inserting the picture of them holding the trpohy and displaying it on the site. 
+
+
+//Mypagewithcss This project was to learn how to use basic css functions such as changing the color of the background and adding differnet colors for paragraphs and headers.
